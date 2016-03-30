@@ -6,10 +6,11 @@
 
 > The **dynamic** stylesheet language. [http://lesscss.org](http://lesscss.org).
 
-This is the JavaScript, official, stable version of Less.
+## Temporary fork of term.js
 
-###### :point_right: [![Join the chat at https://gitter.im/less/less.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/less/less.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) <sup>Chat with Less.js users</sup>
+This fork of term.js has the following open pull requests included:
 
+ * Content-Security-Policy: https://github.com/less/less.js/pull/2855
 
 ## Getting Started
 

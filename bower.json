@@ -1,6 +1,8 @@
 {
-  "name": "less",
+  "name": "less-cockpit",
+  "description": "less.js with open pull requests: Content-Security-Policy",
   "main": "dist/less.js",
+  "version": "2.6.1",
   "ignore": [
     "**/.*",
     "benchmark",
@@ -20,5 +22,9 @@
     ".gitattributes",
     ".jshintrc",
     ".npmignore"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cockpit/less.js.git"
+  }
 }
